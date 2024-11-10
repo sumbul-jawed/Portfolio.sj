@@ -18,7 +18,7 @@ function About() {
               and enhance user experiences.
             </p>
             <p className="leading-relaxed text-justify font-medium text-gray-300 mt-6">
-              Whether it's coding or design, Im committed to continuous learning and applying my
+              Whether it is coding or design, Im committed to continuous learning and applying my
               knowledge to produce meaningful results. I thrive in collaborative environments where
               I can contribute ideas and learn from others while pushing the boundaries of whats
               possible in the world of technology.
